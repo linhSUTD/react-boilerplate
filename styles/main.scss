@@ -1,0 +1,12 @@
+$icon-font-path: "~sass/bootstrap/fonts/";
+
+@import 'sass/bootstrap/bootstrap';
+@import 'sass/global/components';
+@import 'sass/global/plugins';
+@import 'sass/admin/layout3/layout';
+@import 'sass/admin/layout3/themes/default';
+@import 'sass/admin/pages/login2';
+
+html{
+	font-family: Arial, Helvetica, sans-serif;
+}

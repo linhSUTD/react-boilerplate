@@ -1,0 +1,30 @@
+{
+  "name": "keepDemo-ReactClient",
+  "version": "0.0.0",
+  "dependencies": {
+    "css-loader": "^0.23.0",
+    "cssnext-loader": "^1.0.1",
+    "extract-text-webpack-plugin": "^0.9.1",
+    "file-loader": "^0.8.5",
+    "history": "^1.13.1",
+    "immutable": "*",
+    "node-sass": "^3.4.2",
+    "react": "*",
+    "react-addons-pure-render-mixin": "^0.14.3",
+    "react-dom": "*",
+    "react-redux": "*",
+    "react-router": "*",
+    "redux": "*",
+    "resolve-url": "^0.2.1",
+    "sass-loader": "^3.1.2",
+    "style-loader": "^0.13.0",
+    "ts-loader": "*",
+    "typescript": "*",
+    "url-loader": "^0.5.7",
+    "webpack": "*"
+  },
+  "devDependencies": {
+    "react-hot-loader": "^1.3.0",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
