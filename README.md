@@ -1,2 +1,8 @@
 # react-boilerplate
-webpack + reactJS + Alt
+
+Ready-to-use Boilerplate that includes:
+
+- Webpack
+- Metronic CSS
+- Redux Library
+- TypeScript
